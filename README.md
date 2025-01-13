@@ -22,7 +22,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 ### before Elahe 🤕
 
 - [Hacker](https://escaperoom.ir/escaperoom/tehran/hacker)
- 
+
 ### after Elahe 😍
 
 - [Camp Alpha](https://escaperoom.ir/escaperoom/tehran/camp-alpha)
@@ -35,6 +35,7 @@ Here is the list of escape rooms, cinemas, and other attractions we have visited
 
 ### after Elahe 😍
 
+- [Seventy Thirty 2024](https://www.imdb.com/title/tt30761784/)
 - [Breakfast with Giraffes 2024](https://www.imdb.com/title/tt30764843/)
 - [Pool & Party 2024](https://www.imdb.com/title/tt33058750/)
 - [Texas 3 2024](https://www.imdb.com/title/tt32540441/)
